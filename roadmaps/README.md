@@ -10,7 +10,7 @@ This folder contains detailed mini-specs for planned feature areas.
 
 ## Topics
 
-- planned: `cli/path-operations.md`
-- planned: `integration/shell-session-integration.md`
-- planned: `storage/local-version-history.md`
-- planned: `ui/terminal-gui.md`
+- planned: [PATH Operations](cli/path-operations.md)
+- planned: [Shell Session Integration](integration/shell-session-integration.md)
+- planned: [Local Version History](storage/local-version-history.md)
+- planned: [Terminal GUI](ui/terminal-gui.md)

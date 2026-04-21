@@ -79,13 +79,13 @@ Planned local configuration and version-history data will live under
 
 ## Roadmaps
 
-Detailed mini-specs live under `roadmaps/`:
+Detailed mini-specs live under [roadmaps/](roadmaps/README.md):
 
-- `roadmaps/README.md`
-- `roadmaps/cli/path-operations.md`
-- `roadmaps/integration/shell-session-integration.md`
-- `roadmaps/storage/local-version-history.md`
-- `roadmaps/ui/terminal-gui.md`
+- [Roadmap Index](roadmaps/README.md)
+- [PATH Operations](roadmaps/cli/path-operations.md)
+- [Shell Session Integration](roadmaps/integration/shell-session-integration.md)
+- [Local Version History](roadmaps/storage/local-version-history.md)
+- [Terminal GUI](roadmaps/ui/terminal-gui.md)
 
 ## Status
 
