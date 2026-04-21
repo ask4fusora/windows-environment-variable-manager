@@ -1,4 +1,4 @@
-# Windows Environment Variable Manager
+# Windows Environment Variable Manager (wem)
 
 Windows Environment Variable Manager is a Windows-first tool for managing
 persistent `User` and `Machine` environment variables through the registry,
